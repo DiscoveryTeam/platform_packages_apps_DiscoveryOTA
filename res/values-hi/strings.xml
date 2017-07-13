@@ -20,5 +20,6 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">रद्द करें</string>
   <string name="ok">ठीक है</string>
 </resources>
