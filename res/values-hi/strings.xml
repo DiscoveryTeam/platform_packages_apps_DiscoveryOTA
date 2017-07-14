@@ -22,4 +22,21 @@
   <!-- Generic strings -->
   <string name="cancel">रद्द करें</string>
   <string name="ok">ठीक है</string>
+  <string name="delete">मिटाए</string>
+  <string name="back">वापस जाएं</string>
+  <string name="help">मदद</string>
+  <string name="loading">लोड हो रहा है &#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">डाउनलोड करें</string>
+  <string name="install">स्थापित करें</string>
+  <string name="downloading">डाउनलोड कर रहा है &#8230;</string>
+  <string name="rebooting">पुनः आरंभ हो रहा है &#8230;</string>
+  <string name="information">जानकारी</string>
+  <string name="update_available">अद्यतन उपलब्ध!</string>
+  <string name="ignore">नज़रअंदाज़ कर दें</string>
+  <string name="donate">दान करें</string>
+  <string name="finished">संपन्न हो गया</string>
+  <string name="settings">व्यवस्था</string>
+  <string name="done">पूर्ण</string>
+  <string name="delete_confirm">क्या आप वाकई इस फ़ाइल को मिटाना चाहते हैं?</string>
 </resources>
