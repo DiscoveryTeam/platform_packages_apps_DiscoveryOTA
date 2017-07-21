@@ -21,4 +21,16 @@
   <!-- App Strings -->
   <!-- Generic strings -->
   <string name="ok">אישור</string>
+  <string name="download">הורד</string>
+  <string name="install">התקן</string>
+  <string name="downloading">מוריד&#8230;</string>
+  <string name="rebooting">מפעיל מחדש&#8230;</string>
+  <string name="information">מידע</string>
+  <string name="update_available">ישנו עדכון מערכת זמין</string>
+  <string name="ignore">התעלם</string>
+  <string name="donate">תרום</string>
+  <string name="finished">הסתיים</string>
+  <string name="settings">הגדרות</string>
+  <string name="done">בוצע</string>
+  <string name="delete_confirm">האם אתה בטוח שברצונך למחוק את הקובץ?</string>
 </resources>
