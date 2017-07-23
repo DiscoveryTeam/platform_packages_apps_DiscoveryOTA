@@ -138,6 +138,7 @@ public class SettingsActivity extends PreferenceActivity implements OnPreference
 				Preferences.setTheme(mContext, listPref.getValue());
 				Intent intent = new Intent(mContext, MainActivity.class);
 				startActivity(intent);
+				finishAffinity();
 			} else if (key.equals(UPDATER_BACK_FREQ)) {
 				Utils.setBackgroundCheck(mContext, Preferences.getBackgroundService(mContext));
 			}
