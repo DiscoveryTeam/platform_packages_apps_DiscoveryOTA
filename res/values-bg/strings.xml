@@ -20,4 +20,22 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Отказ</string>
+  <string name="delete">Изтриване</string>
+  <string name="back">Назад</string>
+  <string name="help">Помощ</string>
+  <string name="loading">Зареждане&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Изтегляне</string>
+  <string name="install">Инсталиране</string>
+  <string name="downloading">Изтегляне&#8230;</string>
+  <string name="rebooting">Рестартиране&#8230;</string>
+  <string name="information">Информация</string>
+  <string name="update_available">Налична е актуализация</string>
+  <string name="ignore">Игнорирай</string>
+  <string name="donate">Дарете</string>
+  <string name="finished">Завърши</string>
+  <string name="settings">Настройки</string>
+  <string name="done">Готово</string>
+  <string name="delete_confirm">Сигурни ли сте, че желаете да изтриете този файл?</string>
 </resources>
