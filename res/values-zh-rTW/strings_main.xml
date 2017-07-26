@@ -43,7 +43,7 @@
 
     <!-- Dialogs -->
     <string name="main_not_compatible_title">不相容</string>
-    <string name="main_not_compatible_message">此ROM與AEXOTA不相容，請聯絡你的ROM開發者，此應用程式需要一個開發者特殊支援的訂製ROM，這不是故障請不要為此差評。</string>
+    <string name="main_not_compatible_message">此ROM與DiscoveryOTA不相容，請聯絡你的ROM開發者，此應用程式需要一個開發者特殊支援的訂製ROM，這不是故障請不要為此差評。</string>
     <string name="main_not_connected_title">未連接</string>
     <string name="main_not_connected_message">您沒有連接任何網路，請啟用行動數據或連接WiFi後重試。</string>
     <string name="main_playstore_title">比特幣</string>

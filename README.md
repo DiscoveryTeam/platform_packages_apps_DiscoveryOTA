@@ -7,7 +7,7 @@ If you want to, you can host the ROM zip and ota.xml manifest yourself! You can 
 - Build this app (include to device.mk)
 ``` MAKEFILE
 PRODUCT_PACKAGES += \
-    AEXOTA \
+    DiscoveryOTA \
     libbypass
 ```
 #### Create an ota.xml
